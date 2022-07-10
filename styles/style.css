@@ -91,7 +91,6 @@ width: 765px;
 .two-columns {
   width:80%;
   display: flex;
-  width: 80%;
   justify-content: space-between;
 
 }
@@ -193,7 +192,7 @@ width: 765px;
  font-size: 120px;
  font-weight: 600;
  line-height: 1.15;
- text-align: center
+ text-align: center;
 }
 
 .feyman__subtitle {
