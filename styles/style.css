@@ -14,7 +14,7 @@
   position: relative;
 }
 
-.logo {
+.logo__img {
   width: 228px;
   height: 32px;
 }
@@ -52,6 +52,7 @@
 
 .header__link {
   text-decoration: none;
+  color:#2f80ed;
 }
 
 .header__main-illustration {
@@ -157,11 +158,13 @@ z-index: 2;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: none;
 }
 .table__cell {
   width: 250px;
   margin-top: 60px;
-  list-style-type: none;
 }
 .table__heading {
   font-size: 24px;
@@ -317,9 +320,8 @@ color: white;
   padding: 0;
 }
 
-
 .footer__column-links {
-  margin:0;
+  margin:0 0 16px 0;
   padding: 0;
   line-height: 30px;
   font-size: 18px;
