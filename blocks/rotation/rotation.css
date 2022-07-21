@@ -6,8 +6,3 @@
     transform: rotate(360deg);
   }
 }
-.outer {
-  width: 568px;
-  height: 568px;
-  overflow: hidden;
-}
