@@ -8,3 +8,4 @@
 **Инструкции:** Запуск через VS code и Live server
 1. скачать расширение  extensions - live Server
 2. файл index.html правой кнопкой мыши "open with live server"
+! 
